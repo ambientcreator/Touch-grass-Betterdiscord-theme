@@ -59,10 +59,6 @@ All preview screenshots are anonymized mockups created to showcase the theme wit
 ### Credits
 
 - **Theme / CSS:** *Washed*
-- **Background artwork / concept:** *Add artist or source here, if applicable*
-
-If the background artwork is based on third-party work, make sure you have permission to use and redistribute it, and provide proper attribution.
-
 ---
 
 ## Русский
@@ -107,10 +103,6 @@ If the background artwork is based on third-party work, make sure you have permi
 ### Авторы
 
 - **Тема / CSS:** *Washed*
-- **Фоновая иллюстрация / концепт:** *Укажите автора или источник, если применимо*
-
-Если фоновая иллюстрация основана на сторонней работе, убедитесь, что у вас есть право на её использование и распространение, и обязательно укажите авторство.
-
 ---
 
 *An independent BetterDiscord theme. Not affiliated with Discord or BetterDiscord.*  
