@@ -9,11 +9,11 @@
 
 ### Friends view / Экран друзей
 
-![Touch grass theme preview — Friends view / Предпросмотр темы Touch grass — экран друзей](assets/preview-friends.png)
+![Touch grass theme preview — Friends view / Предпросмотр темы Touch grass — экран друзей](assets/preview-friends.jpg)
 
 ### Server view / Экран сервера
 
-![Touch grass theme preview — Server view / Предпросмотр темы Touch grass — экран сервера](assets/preview-server.png)
+![Touch grass theme preview — Server view / Предпросмотр темы Touch grass — экран сервера](assets/preview-server.jpg)
 
 ---
 
